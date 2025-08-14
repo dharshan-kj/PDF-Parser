@@ -25,7 +25,7 @@ The parser reads a PDF, extracts the **Table of Contents (ToC)** and section det
 
 pip install -r requirements.txt
 
-##🛠 Technologies Used
+## 🛠 Technologies Used
 
 - Python 3
 - Jupyter Notebook
